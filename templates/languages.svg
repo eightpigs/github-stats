@@ -100,7 +100,7 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<div>关注的语言</div>
+<div style="padding: 0.5em; padding-top: 0; text-align: left; font-size: 14px; font-weight: 600; color: rgb(3, 102, 214);">Languages Used Statistics</div>
 
 <div>
 <span class="progress">
